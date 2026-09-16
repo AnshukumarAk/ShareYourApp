@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="external_files"
+        path="." />
+
+    <!-- In case the APK is in system or root dirs (e.g. system_ext/app/...) -->
+    <root-path
+        name="root"
+        path="." />
+</paths>
